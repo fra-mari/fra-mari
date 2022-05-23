@@ -2,9 +2,9 @@
 
 <h3><b>About me</b></h3>
 
-<p>I'm Francesco, a <img src="pillar.png" width="14"/> classicist and a <img src="python.png" width="14"/> Python programmer based in <b>Berlin</b>, Germany <img src="germany.png" width="14"/>.
+<p>I'm Francesco, a <img src="pillar.png" width="14"/> classicist and a <img src="programmer.png" width="14"/> developer based in <b>Berlin</b>, Germany <img src="germany.png" width="14"/>.
 
-I'm exploring Machine Learning by combining <img src="data.png" width="14"/> <b>data science</b> with <img src="languages.png" width="14"/> linguistics, <img src="historia.png" width="14"/> history and <img src="network.png" width="14"/> socio-anthropology. I enjoy breaking the boundaries between disciplines and I am convinced that the future of AI lies in <b>the combination of hard sciences and humanities</b>. I have a passion for <img src="robot.png" width="14"/> <b>NLP</b> and I am a bit of a font nerd <img src="text.png" width="14"/>. I like to learn something new every day.
+I'm also using <img src="python.png" width="14"/> Python to explore Machine Learning, by combining <img src="data.png" width="14"/> <b>data science</b> with <img src="languages.png" width="14"/> linguistics, <img src="historia.png" width="14"/> history and <img src="network.png" width="14"/> socio-anthropology. I enjoy breaking the boundaries between disciplines and I am convinced that the future of AI lies in <b>the combination of hard sciences and humanities</b>. I have a passion for <img src="robot.png" width="14"/> <b>NLP</b> and I am a bit of a font nerd <img src="text.png" width="14"/>. I like to learn something new every day.
 
 <!--
 Icons from https://www.flaticon.com
