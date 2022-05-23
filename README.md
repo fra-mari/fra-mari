@@ -13,16 +13,16 @@ Icons from https://www.flaticon.com
 
 I believe that:
 
-- People form the most valuable Neural Networks of all
 - Good understanding requires time, care, and collaboration 
 - Every problem can be solved, provided that we tailor our tools on it and not <i>vice versa</i>
+- People form the most valuable Neural Networks of all
 - There is nothing so complex that it cannot be explained with a good story
 
 </p>
 
 <h3><b>Toolkit</b></h3>
 
-The core components of my daily data science toolkit are:
+The core components of my daily toolkit are:
 
 <!--
 Icons from https://simpleicons.org/
@@ -35,7 +35,10 @@ Icons from https://simpleicons.org/
 <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" height="24" />
 <img alt="SQLite" src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" height="24" />
 <img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" height="24" />
-<img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" height="24" />
+<img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" height="24" /></p>
+  
+Specifically for data science, I also use:
+<p> 
 <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" height="24" /></p>
 
 
