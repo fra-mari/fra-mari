@@ -4,7 +4,7 @@
 
 <p>I'm Francesco, a <img src="programmer.png" width="14"/> programmer and <img src="pillar.png" width="14"/> a classicist based in <b>Berlin</b>, Germany <img src="germany.png" width="14"/>.
   
-Besides using <img src="go.png" width="14"/> Go to create and connect APIs for <b>my work as a Back-end Developer</b>, I have some experience in using <img src="python.png" width="14"/> Python to explore Machine Learning, by combining <img src="data.png" width="14"/> <b>data science</b> with <img src="languages.png" width="14"/> linguistics, <img src="historia.png" width="14"/> history and <img src="network.png" width="14"/> socio-anthropology. <br>I enjoy breaking the boundaries between disciplines and I am convinced that the future of AI lies in <b>the combination of hard sciences and humanities</b>. I have a passion for <img src="robot.png" width="14"/> <b>NLP</b> and I am a bit of a font nerd <img src="text.png" width="14"/>. I like to learn something new every day.
+Besides using <img src="go.png" width="14"/> Go to create and connect APIs for <b>my work as a Back-end Developer</b>, I have some experience in using <img src="python.png" width="14"/> Python to explore Machine Learning, by combining <img src="data.png" width="14"/> <b>data science</b> with <img src="languages.png" width="14"/> linguistics, <img src="historia.png" width="14"/> history and <img src="network.png" width="14"/> socio-anthropology. <br>I enjoy breaking the boundaries between disciplines and I am convinced that the key for our future lies in <b>the combination of hard sciences and humanities</b>. I like to learn something new every day.
 
 <!--
 Icons from https://www.flaticon.com
